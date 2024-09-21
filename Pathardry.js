@@ -1,4 +1,7 @@
-var viewtree = [];
+
+
+app.Script( "D20.js");
+app.Script( "Global.js");
 
 app.Script( "FactoryLayout.js" );
 app.Script( "PathardryLayout.js" );
