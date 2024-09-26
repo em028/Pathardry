@@ -138,7 +138,6 @@ function btn_2storage_OnTouch () {
 function btn_2factory_OnTouch () {
 	app.DestroyLayout(viewtree[viewtree.length-1]);
 	app.AddLayout(layout_factory());
-	
 }
 
 function btn_2dungeon_OnTouch () {

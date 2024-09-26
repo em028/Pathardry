@@ -15,5 +15,5 @@ function OnStart()
 	viewtree.push(lay);
 	app.AddLayout( lay );
 	
-	//app.ShowPopup(viewtree.length);
+	//app.ShowPopup(diceRoll(2,6), "Short");
 }
